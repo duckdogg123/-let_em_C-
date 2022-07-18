@@ -1,6 +1,16 @@
-# -let_em_C-
-There's a #time/place(4)&lt;everything,>&lt;l\/l
-{
+# -let_em_C++
+#.py _onlineCompiler_
+#.java.util
+
+ include <timestamp>
+ include <iostream>
+ include <string.h>
+ include <fstream>
+ 
+ int main("HeLl0_w0rLd") {
+                           
+
+public.static Void ("strings") return = addresses:"("strings")";
   "address": "bc1qwxfv2mtcq6ulmp63g67xqgs9hndf77rxv684s3",
   "total_received": 48175,
   "total_sent": 48175,
